@@ -1,16 +1,16 @@
 {
-  "version": "2.9.0", # 最新版本号
-  "validIP": { # 灰度下发，指定有效网段
+  "version": "2.9.0",
+  "validIP": {
     "fromIP": "192.168.1.1",
     "toIP": "192.168.2.200"
   },
-  "isIgnore": 0, # 是否忽略更新
-  "isForce": 0, # 是否是强制更新
-  "timeInterval": "5", # 非强制更新下提醒升级的间隔
-  "information": [ # 更新文案
+  "isIgnore": 0,
+  "isForce": 0,
+  "timeInterval": "5",
+  "information": [
     "1. 更新内容",
     "2. 更新内容"
   ],
-  "themeColor": "0xffffff", # 提示框主题颜色
-  "packageUrl": "demo.apk" # 升级包或商店的地址
+  "themeColor": "0xffffff",
+  "packageUrl": "https://github.com/ynogle/JsonUrlProvider/blob/master/demo.apk"
 }
