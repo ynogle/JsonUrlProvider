@@ -6,10 +6,10 @@
   },
   "isForce": 0,
   "timeInterval": "5",
-  "information": {
+  "information": [
     "1. 更新内容",
     "2. 更新内容"
-  },
+  ],
   "themeColor": "0xffffff",
   "packageUrl": "https://raw.githubusercontent.com/ynogle/JsonUrlProvider/master/demo.apk"
 }
