@@ -1,17 +1,15 @@
 {
-  "versionCode": "666",
-  "versionName": "23.3.0",
+  "version": "23.3.0",
   "validIP": {
     "fromIP": "192.168.1.1",
     "toIP": "192.168.2.200"
   },
-  "isIgnore": 0,
   "isForce": 0,
   "timeInterval": "5",
-  "information": [
+  "information": {
     "1. 更新内容",
     "2. 更新内容"
-  ],
+  },
   "themeColor": "0xffffff",
   "packageUrl": "https://raw.githubusercontent.com/ynogle/JsonUrlProvider/master/demo.apk"
 }
