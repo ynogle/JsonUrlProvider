@@ -2,7 +2,7 @@
   "version": "20.8.1",
   "validIP": {
     "fromIP": "192.168.111.1",
-    "toIP": "192.168.2.200"
+    "toIP": "10.0.2.1"
   },
   "isForce": 0,
   "timeInterval": "5",
