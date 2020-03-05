@@ -1,16 +1,15 @@
-{
-  "version": "20.8.1",
-  "validIP": {
-    "fromIP": "192.168.111.1",
-    "toIP": "10.0.2.1"
-  },
-  "isForce": 0,
-  "isIgnore": 0,
-  "timeInterval": "5",
-  "information": [
-    "1. 更新内容",
-    "2. 更新内容"
-  ],
-  "themeColor": "0xffffff",
-  "packageUrl": "https://raw.githubusercontent.com/ynogle/JsonUrlProvider/master/demo.apk"
+
+	"msg": "请求成功",
+	"code": 1,
+	"data": {
+		"vContent": "1. 更新内容\n2. 更新内容",
+		"vFno": "1.0.0",
+		"vFnum": 100,
+		"vForce": 1,
+		"vId": 2,
+		"vNo": "1.1.0",
+		"vNum": 110,
+		"vType": 2,
+		"vUrl": "https://raw.githubusercontent.com/ynogle/JsonUrlProvider/master/demo.apk"
+	}
 }
